@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoutYourName</string>
+    <string name="button">Show Name</string>
+    <string name="enter_your_name">Enter your Name</string>
+</resources>
